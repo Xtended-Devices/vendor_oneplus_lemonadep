@@ -2,9 +2,9 @@
 //
 // Defines the API for ois system.
 //
-// Copyright (c) 2019 OPLUS, Inc.
+// Copyright (c) 2019 OPPO, Inc.
 // All Rights Reserved.
-// Confidential and Proprietary - OPLUS, Inc.
+// Confidential and Proprietary - OPPO, Inc.
 
 syntax = "proto2";
 import "nanopb.proto";
@@ -42,3 +42,4 @@ message sns_ois_system_events
 {
   repeated float data3g2h = 1;
 }
+
